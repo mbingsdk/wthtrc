@@ -2,13 +2,8 @@
   "discord_enabled": true,
   "guilds_list": [
     {
-      "id": "1041325251654582342",
-      "label": "SDK-Dev",
-      "enabled": false
-    },
-    {
-      "id": "1407983249346662451",
-      "label": "UNIX-Team",
+      "id": "1117983249346662555",
+      "label": "NAME-EXAMPLE",
       "enabled": true
     }
   ],
