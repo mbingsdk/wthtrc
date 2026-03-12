@@ -2,6 +2,7 @@
   "discord_enabled": true,
   "guilds_list": [
     {
+<<<<<<< HEAD
       "id": "1041325251654582342",
       "label": "SDK-Dev",
       "enabled": false
@@ -9,18 +10,31 @@
     {
       "id": "1407983249346662451",
       "label": "UNIX-Team",
+=======
+      "id": "1117983249346662555",
+      "label": "NAME-EXAMPLE",
+>>>>>>> ba277821e7db4f88159fb8a44a558649bcd445ee
       "enabled": true
     }
   ],
   "beep_at_sec": 35,
   "scanning_enabled": true,
   "volume_percent": 10,
+<<<<<<< HEAD
   "icon_offset_x": 1760,
   "icon_offset_y": 750,
   "icon_w": 140,
   "icon_h": 210,
   "beep_repeat": 1,
   "control_mode": "SIZE",
+=======
+  "icon_offset_x": 850,
+  "icon_offset_y": 830,
+  "icon_w": 80,
+  "icon_h": 110,
+  "beep_repeat": 1,
+  "control_mode": "MOVE",
+>>>>>>> ba277821e7db4f88159fb8a44a558649bcd445ee
   "window_width": 600,
   "window_height": 600
 }
