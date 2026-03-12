@@ -1,26 +1,15 @@
 {
-  "discord_enabled": true,
-  "guilds_list": [
-    {
-      "id": "1041325251654582342",
-      "label": "SDK-Dev",
-      "enabled": false
-    },
-    {
-      "id": "1407983249346662451",
-      "label": "UNIX-Team",
-      "enabled": true
-    }
-  ],
+  "discord_enabled": false,
+  "guilds_list": [],
   "beep_at_sec": 35,
   "scanning_enabled": true,
-  "volume_percent": 10,
-  "icon_offset_x": 1760,
-  "icon_offset_y": 750,
-  "icon_w": 140,
-  "icon_h": 210,
-  "beep_repeat": 1,
-  "control_mode": "SIZE",
+  "volume_percent": 3,
+  "icon_offset_x": 850,
+  "icon_offset_y": 830,
+  "icon_w": 90,
+  "icon_h": 120,
+  "beep_repeat": 5,
+  "control_mode": "MOVE",
   "window_width": 600,
-  "window_height": 600
+  "window_height": 581
 }
